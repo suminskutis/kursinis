@@ -1,0 +1,4 @@
+Laplacian matrix(L)
+
+
+QR pritaikome L matricai
